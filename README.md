@@ -5,7 +5,7 @@ My projects include a desktop game developed for my bachelor's thesis and univer
 
 ## Selected projects
 
-- **RogueTetris** — a Java/libGDX game combining falling-block puzzles with roguelike combat, procedural maps and artifacts. My bachelor's thesis project; public source release is pending an asset attribution review.
+- **[RogueTetris](https://github.com/RamanRasikhin/rogue-tetris)** — a Java/libGDX game combining falling-block puzzles with roguelike combat, procedural maps and artifacts. My bachelor's thesis project, with a runnable desktop release.
 - **[Group Calendar](https://github.com/RamanRasikhin/group-calendar)** — a team scheduling application with personal and group events, invitations and voting. I worked on the FastAPI backend.
 - **[E-Prescription](https://github.com/RamanRasikhin/e-prescription)** — a university team prototype for prescribing and dispensing medication, built with JavaFX and SQLite.
 
@@ -13,4 +13,4 @@ My projects include a desktop game developed for my bachelor's thesis and univer
 
 Java · Python · SQL · FastAPI · SQLAlchemy · SQLite · libGDX · JavaFX · JUnit · Git
 
-[More coursework](https://github.com/RamanRasikhin/university-coursework): selected C++ and Python exercises.
+[More coursework](https://github.com/RamanRasikhin/university-coursework): C++ library management and sorting, Python numerical modelling, Mandelbrot and cellular automata.
